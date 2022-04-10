@@ -9,12 +9,12 @@
 
 [[3] XGBoost for Regression](https://youtu.be/OtD8wVaFm6E)
 
-[[4] XGBoost for Classification] (https://youtu.be/8b1JEDvenQU)
+[[4] XGBoost for Classification](https://youtu.be/8b1JEDvenQU)
 
-[[5] XGBoost: Crazy Cool Optimizations] (https://youtu.be/oRrKeUCEbq8)
+[[5] XGBoost: Crazy Cool Optimizations](https://youtu.be/oRrKeUCEbq8)
 
 [[6] Regularization](https://youtu.be/Q81RR3yKn30)
 
-[[7] Cross Validation] (https://youtu.be/fSytzGwwBVw)
+[[7] Cross Validation](https://youtu.be/fSytzGwwBVw)
 
-[[8] Confusion Matrices] (https://youtu.be/Kdsp6soqA7o)
+[[8] Confusion Matrices](https://youtu.be/Kdsp6soqA7o)
